@@ -26,3 +26,4 @@ function showSlides(n) {
 }
 
 //Source: https://www.w3schools.com/howto/howto_js_slideshow.asp 
+//More info: https://www.w3schools.com/w3css/w3css_slideshow.asp 
